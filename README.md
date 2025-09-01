@@ -2,14 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Mohamed+Alwany.;Web+Developer+from+Egypt.&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Mohamed+Alwany.;Web+Developer+from+Egypt.&center=true&size=30" style="color-red">
   </a>
 </h1>
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Mohamed Elwany
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/EngMhmoe)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding) 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
 

@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-alwany.mohamed-alwany">
 
-<h1 align="cente">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Mohamed+Alwany.;Web+Developer+from+Egypt.&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Mohamed+Alwany.;Web+Developer+from+Egypt.&center=true&size=30" style="color:red">
   </a>
 </h1>
 

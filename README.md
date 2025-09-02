@@ -20,7 +20,7 @@
 
 ## 🚀 Currently Working On
 
-- Personal Portfolio Website (Next.js + Tailwind)
+- Personal Portfolio Website (React.js + Next.js + Bootstrap)
 - E-commerce Web App (MERN Stack)
 - Open Source Contributions
 

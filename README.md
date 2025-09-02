@@ -8,7 +8,6 @@
 
 # 👋 Hello, I'm Mohamed Alwany
 
-[![](https://img.shields.io/badge/-@mohamedalwany-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/your_username) <!-- غيّر الرابط -->
 [![](https://img.shields.io/badge/-@mohamedalwany-%23181717?style=flat-square&logo=github)](https://github.com/mohamed-alwany)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Portfolio&url=https%3A%2F%2Fyourportfolio.com)](https://yourportfolio.com) <!-- غيّر الرابط -->
 

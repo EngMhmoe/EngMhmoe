@@ -64,8 +64,7 @@
 
 ## 📫 Connect With Me
 
-- Twitter: [@mohamedalwany](https://twitter.com/your_username)  
-- LinkedIn: [linkedin.com/in/mohamedalwany](https://linkedin.com/in/your_profile)  
+- LinkedIn: [linkedin.com/in/mohamedalwany](https://www.linkedin.com/feed/?trk=404_page)  
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)  
 
 ---

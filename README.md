@@ -14,7 +14,7 @@
 
 💻 Web Developer from Egypt 🇪🇬  
 💡 Passionate about building clean, user-friendly websites and web apps.  
-⚡ Currently diving deeper into **React**, **Next.js**, and **Tailwind CSS**.
+⚡ Currently diving deeper into **Html**, **css**, **JavaScript**, and **React**, **Next.js**.
 
 ---
 
